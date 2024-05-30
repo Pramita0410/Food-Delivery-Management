@@ -6,3 +6,8 @@
 
 ![image](https://github.com/Pramita0410/food-delivery-data-analysis/assets/114774760/871f4d2f-a368-4206-ad4e-439865f4ab2f)
 
+### Airflow DAG
+
+![image](https://github.com/Pramita0410/food-delivery-data-analysis/assets/114774760/faffc78a-ca4c-42cc-97e5-c2b03237c7f4)
+
+
