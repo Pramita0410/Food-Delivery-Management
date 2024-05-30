@@ -10,4 +10,7 @@
 
 ![image](https://github.com/Pramita0410/food-delivery-data-analysis/assets/114774760/faffc78a-ca4c-42cc-97e5-c2b03237c7f4)
 
+### Google Big Query
+
+![image](https://github.com/Pramita0410/food-delivery-data-analysis/assets/114774760/d0383e7a-9e36-4a48-a94a-7cb82e27b6e4)
 
