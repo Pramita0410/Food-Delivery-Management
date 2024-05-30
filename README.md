@@ -18,6 +18,17 @@ This project utilizes an ETL pipeline built with Apache Airflow to manage and op
 ## System Architecture
 
 ![image](https://github.com/Pramita0410/food-delivery-data-analysis/assets/114774760/248ae756-3c1d-4792-9a0c-eeda38b02fb9)
+The above diagram illustrates the workflow of the data from extraction to reporting.
+
+## DAG Configuration
+The DAG `food_delivery_management_dag` manages the pipeline with tasks for downloading, merging, transforming, and loading data.
+
+### Key DAG Tasks
+- `download_csv_from_s3`: Downloads files from AWS S3.
+- `merge_data`: Merges various datasets into a single CSV file.
+- `transform_data`: Performs data cleaning and transformation operations.
+- `upload_csv_file`: Uploads the merged CSV to Google Cloud Storage.
+- `push_data_from_gcs_to_bigquery`: Loads the data into BigQuery from Google Cloud Storage.
 
 ### S3
 
